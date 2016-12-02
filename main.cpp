@@ -3,6 +3,7 @@
 #include <sstream>
 #include <string>
 #include <cmath>
+#include <iterator>
 
 #include "Particle.hpp"
 #include "ArgumentParser.hpp"

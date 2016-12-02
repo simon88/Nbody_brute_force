@@ -1,5 +1,6 @@
 #include <cmath>
 #include <random>
+#include <algorithm>
 
 #include "Particle.hpp"
 
